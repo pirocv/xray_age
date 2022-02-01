@@ -8,7 +8,7 @@ def main():
     image=args.image
 
     learn=load_learner(
-        '../tmp/','every_model_age_senet154_v2_tl_26_ft_7_fp32.pkl'
+        '.','every_model_age_senet154_v2_tl_26_ft_7_fp32.pkl'
     )
     out=learn.predict(open_image(image))[0]
 
