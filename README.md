@@ -1,4 +1,4 @@
-# xray_age
+# X-ray age
 - Predict biological age from frontal CXR image.
 
 ## supported file type
@@ -12,6 +12,9 @@
 ```python
 python predict.py path_to_cxr_image
 ```
+**TorchXRayVision**
+- X-ray age model is also available in [TorchXRayVision](https://github.com/mlmed/torchxrayvision). (Thanks Joseph Paul Cohen)
+
 ## requirements
 - Python3 (3.8.5)
 - Pytorch (1.4.0)
