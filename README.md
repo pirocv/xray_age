@@ -7,7 +7,7 @@
 
 ## usage
 - Download pre-trained model
-  - https://riken-share.box.com/s/zezm7z4o8dq2palzsfkxzabtluov54b4
+  - https://riken-share.box.com/s/pe202pcmhx7idymve2x3xfu7nu6gfbrt
 
 ```python
 python predict.py path_to_cxr_image
